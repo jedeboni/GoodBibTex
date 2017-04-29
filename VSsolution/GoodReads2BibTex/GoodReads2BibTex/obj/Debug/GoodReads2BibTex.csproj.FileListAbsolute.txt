@@ -1,0 +1,9 @@
+c:\users\jezdebon\documents\visual studio 2015\Projects\GoodReads2BibTex\GoodReads2BibTex\bin\Debug\GoodReads2BibTex.exe.config
+c:\users\jezdebon\documents\visual studio 2015\Projects\GoodReads2BibTex\GoodReads2BibTex\bin\Debug\GoodReads2BibTex.exe
+c:\users\jezdebon\documents\visual studio 2015\Projects\GoodReads2BibTex\GoodReads2BibTex\bin\Debug\GoodReads2BibTex.pdb
+c:\users\jezdebon\documents\visual studio 2015\Projects\GoodReads2BibTex\GoodReads2BibTex\obj\Debug\GoodReads2BibTex.csprojResolveAssemblyReference.cache
+c:\users\jezdebon\documents\visual studio 2015\Projects\GoodReads2BibTex\GoodReads2BibTex\obj\Debug\GoodReads2BibTex.Form1.resources
+c:\users\jezdebon\documents\visual studio 2015\Projects\GoodReads2BibTex\GoodReads2BibTex\obj\Debug\GoodReads2BibTex.Properties.Resources.resources
+c:\users\jezdebon\documents\visual studio 2015\Projects\GoodReads2BibTex\GoodReads2BibTex\obj\Debug\GoodReads2BibTex.csproj.GenerateResource.Cache
+c:\users\jezdebon\documents\visual studio 2015\Projects\GoodReads2BibTex\GoodReads2BibTex\obj\Debug\GoodReads2BibTex.exe
+c:\users\jezdebon\documents\visual studio 2015\Projects\GoodReads2BibTex\GoodReads2BibTex\obj\Debug\GoodReads2BibTex.pdb
