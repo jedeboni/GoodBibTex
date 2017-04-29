@@ -1,12 +1,12 @@
 # GoodBibTex 
 
-GoodReads to BibTex converter
+### GoodReads to BibTex converter
 
 GoodBibTex is a Windows program that reads a CSV exported file from 
 GoodReads and converts it to a BibTex format to be imported into [Zotero](https://www.zotero.org/) or
 other reference managment software. 
 
-# Installation
+## Installation
 
 A Windows executable is available [here](https://github.com/jedeboni/GoodBibTex/tree/master/executable)
 
